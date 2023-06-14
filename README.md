@@ -6,6 +6,14 @@ This project is part of React Course https://scrimba.com/learn/learnreact
 
 ## This project is attempt to make meme generator.  Draw from 100 photos and add text to create meme. 
 
+Topics in project:
+
+* Event listeners
+* State
+* Conditional rendering
+* Forms
+* Side effects
+
 ## Available Scripts
 
 In the project directory, you can run:
